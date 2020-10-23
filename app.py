@@ -33,7 +33,7 @@ import json, time
 # 3. This scripts makes use of "Telethon" python library.
 # 4. If any doubt let me know :) @SrPedro at Telegram
 
-api_id = '1742634
+api_id = '1742634'
 api_hash = 'b892c06a02e1de593a8e1f7cc0c8e2be'
 user_file = 'users.json'
 
